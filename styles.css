@@ -10,5 +10,16 @@ body {
 
   .h32 {
       color: rgb(21, 36, 255);
-      font-size: 200pt;
+      font-size: 20pt;
   }
+  td, th {
+      color: black;
+      text-align: left;
+      padding: 2px;
+      border: 2px solid #000;
+  }
+  table {
+      font-family:'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    width: 100%;
+}
