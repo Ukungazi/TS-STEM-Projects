@@ -1,9 +1,11 @@
 body {
-    background-image: url('Images/circlecircle-188301573.jpg');
+    background-image: url('Images/ginkgo-vintage-color-seamless-pattern-vector.jpg');
     background-size:50% 50% ;
   }
   h1 {
-    color: blue;
+    font-size: 80px;
+    color: red;
+    
   }
   p {
     color: red;
@@ -25,10 +27,12 @@ body {
     width: 100%;
 }
 header {
-  background-color: #666;
+  background-image: url(Images/3-s2.0-B978034064570350006X-f04-13-9780340645703.gif);
+  background-repeat: repeat-x;
+  background-size: 25% 100%;
   padding: 30px;
   text-align: center;
-  font-size: 35px;
+  font-size: 40px;
   color: white;
 }
 nav {
