@@ -1,5 +1,5 @@
 body {
-    background-image: url('Images/ginkgo-vintage-color-seamless-pattern-vector.jpg');
+    background-image: url('ginkgo-vintage-color-seamless-pattern-vector.jpg');
     background-size:25% 25%;
   }
   h1 {
@@ -27,7 +27,7 @@ body {
     width: 100%;
 }
 header {
-  background-image: url(Images/Full-adder.gif);
+  background-image: url(Full-adder.gif);
   background-repeat: repeat-x;
   background-size: 12.5% 100%;
   padding: 30px;
