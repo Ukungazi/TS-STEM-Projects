@@ -1,6 +1,6 @@
 body {
     background-image: url('Images/ginkgo-vintage-color-seamless-pattern-vector.jpg');
-    background-size:50% 50% ;
+    background-size:25% 25%;
   }
   h1 {
     font-size: 80px;
@@ -27,9 +27,9 @@ body {
     width: 100%;
 }
 header {
-  background-image: url(Images/3-s2.0-B978034064570350006X-f04-13-9780340645703.gif);
+  background-image: url(Images/Full-adder.gif);
   background-repeat: repeat-x;
-  background-size: 25% 100%;
+  background-size: 12.5% 100%;
   padding: 30px;
   text-align: center;
   font-size: 40px;
@@ -37,9 +37,9 @@ header {
 }
 nav {
   float: left;
-  height: 300px; /* only for demonstration, should be removed */
   background: #ccc;
-  padding: 20px;
+  padding: 2.5%;
+  width: 20%;
 }
 
 /* Style the list inside the menu */
@@ -50,7 +50,7 @@ nav ul {
 
 article {
   float: left;
-  padding: 20px;
+  padding: 2.5%;
   width: 70%;
   background-color: #f1f1f1;
 }
