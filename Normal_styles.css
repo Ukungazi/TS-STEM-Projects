@@ -62,3 +62,6 @@ td, th {
     padding: 2px;
     border: 2px solid #000;
 }
+.tab {
+    text-indent: 40px;
+}
