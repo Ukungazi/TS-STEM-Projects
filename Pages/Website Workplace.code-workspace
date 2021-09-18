@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "TS-STEM-Projects",
+			"path": "..\\Java practice\\TS-STEM-Projects"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin"
+	}
+}
