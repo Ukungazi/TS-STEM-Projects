@@ -1,47 +1,61 @@
 body {
     background-image: url('../TS-STEM-Projects/Images/ginkgo-vintage-color-seamless-pattern-vector.jpg');
-    background-size:25% 25%;
-  }
-  p {
+    background-size: 25% 25%;
+}
+
+p {
     color: rgb(0, 0, 255);
-  }
-  .h32 {
-      color: rgb(21, 36, 255);
-      font-size: 20pt;
-  }
-  table {
-      font-family:'Times New Roman', Times, serif;
+}
+
+.h32 {
+    color: rgb(21, 36, 255);
+    font-size: 20pt;
+}
+
+table {
+    font-family: 'Times New Roman', Times, serif;
     border-collapse: collapse;
     width: 100%;
 }
+
 header {
-  background-image: url(../TS-STEM-Projects/Images/Full-adder.gif);
-  background-repeat: repeat-x;
-  background-size: 12.5% 100%;
+    background-image: url(../TS-STEM-Projects/Images/Full-adder.gif);
+    background-repeat: repeat-x;
+    background-size: 12.5% 100%;
 }
+
 nav {
-  background: rgb(194, 194, 194);
-  border:black solid 3px;
+    background: rgb(194, 194, 194);
+    border: black solid 3px;
 }
+
 nav ul {
-  list-style-type: none;
+    list-style-type: none;
 }
+
 article {
-  background-color: #f1f1f1;
+    background-color: #f1f1f1;
 }
+
 
 /* Clear floats after the columns */
-section::after {
-  content: "";
-  display: table;
-  clear: both;
-}
 
+section::after {
+    content: "";
+    display: table;
+    clear: both;
+}
 
 footer {
-  border-top: 3px solid black;
-  padding: 30px;
-  background-color:#8080807a
+    border-top: 3px solid black;
+    padding: 30px;
+    background-color: #8080807a
 }
 
+border {
+    border: black 10px
+}
 
+.tab {
+    text-indent: 40px;
+}
