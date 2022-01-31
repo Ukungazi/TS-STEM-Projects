@@ -37,9 +37,6 @@ article {
     background-color: #f1f1f1;
 }
 
-
-/* Clear floats after the columns */
-
 section::after {
     content: "";
     display: table;
@@ -50,10 +47,6 @@ footer {
     border-top: 3px solid black;
     padding: 30px;
     background-color: #8080807a
-}
-
-border {
-    border: black 10px
 }
 
 .tab {
